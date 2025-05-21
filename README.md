@@ -80,6 +80,3 @@ Look for a custom dashboard? Let us connect!
 
 --- 
 
-## 🧼 Data Cleaning Highlight
-During the data preparation stage, a typo in the Accident Severity column ("Fetal" instead of "Fatal") was identified and corrected using Power Query.
-
